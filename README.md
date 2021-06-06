@@ -1,5 +1,5 @@
 # Short-URL
-Project to shortened the URL
+Project to shorten the URL
 
 
 
